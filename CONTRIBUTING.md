@@ -8,3 +8,4 @@ Repository owner: Lane Dempsey
 
 ## Contributers:
 * Nick Nannen
+* Isabel Salazar
