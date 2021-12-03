@@ -6,3 +6,5 @@ Creating a game that emphasizes large scale warfare set in the modern area that 
 
 # License
 [MIT License](LICENSE)
+
+Suggested Module: Adding vehicles to game
