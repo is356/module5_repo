@@ -5,3 +5,6 @@ Repository owner: Lane Dempsey
 * Please include all comments for any and all pull requests. 
 * Use proper coding techniques and be organized. 
 * If you have any questions or concern, email the repository owner at: lhd29@nau.edu
+
+## Contributers:
+* Nick Nannen
